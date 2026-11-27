@@ -7,6 +7,11 @@
 - [开工与验收清单](docs/enterprise-email-checklist.zh-CN.md)
 - [英文 Skill](skills/enterprise-email-operations/SKILL.md)
 
+## 终端 Agent 使用与维护
+
+- [终端 Agent 使用说明](docs/AGENT_USAGE.md)：Codex CLI、Claude Code、Pi 的安装、调用、更新与排查。
+- [AGENTS.md](AGENTS.md)：维护本仓库时遵循的项目规范。
+
 ## 使用
 
 将 `skills/enterprise-email-operations/` 复制到目标 Agent 支持的技能目录，或直接要求 Agent 阅读其中的 SKILL.md。项目模板复制到私有项目填写，禁止提交客户凭据、邮件内容和敏感验收证据。
