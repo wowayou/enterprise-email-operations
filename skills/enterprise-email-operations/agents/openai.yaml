@@ -1,0 +1,14 @@
+interface:
+  display_name: 企业邮箱配置与验收
+  short_description: Configure, secure and verify business email operations
+  default_prompt: Use $enterprise-email-operations to plan and verify reliable business
+    email, DNS authentication, inquiry delivery and ownership handoff.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,57 @@
+{
+  "example_only": true,
+  "research_checked_on": "2026-11-27",
+  "business": {
+    "domain": "example.com",
+    "operator_country": "CN",
+    "target_markets": [],
+    "entity_type": "unconfirmed",
+    "human_users": 0,
+    "primary_owner": "",
+    "backup_owner": "",
+    "response_target": "owner_to_confirm"
+  },
+  "access": {
+    "registrar": "",
+    "authoritative_dns": "",
+    "recovery_contact_verified": false,
+    "admin_mfa_verified": false,
+    "secrets_location_reference_only": ""
+  },
+  "email": {
+    "provider": "",
+    "tenant_region": "unconfirmed",
+    "plan": "unconfirmed",
+    "existing_service": false,
+    "existing_data_inventory": [],
+    "role_address": "sales@example.com",
+    "role_implementation": "alias_or_shared_to_confirm",
+    "human_mailboxes": [],
+    "sending_streams": [],
+    "forwarding_or_mailing_lists": "unknown",
+    "dmarc_report_destination_verified": false
+  },
+  "website": {
+    "framework": "Astro",
+    "hosting": "",
+    "server_runtime": "unconfirmed",
+    "inquiry_store": "",
+    "notification_provider": "",
+    "notification_from": "notify@notify.example.com",
+    "approved_fixed_to": "sales@example.com",
+    "visitor_auto_reply": false
+  },
+  "scope": {
+    "authorized_actions": [],
+    "authorized_test_recipients": [],
+    "change_window": "",
+    "rollback_owner": ""
+  },
+  "acceptance": {
+    "overall_status": "NOT_RUN",
+    "evidence_location": "",
+    "unresolved_inputs": [
+      "Replace examples with verified account and domain facts before deployment."
+    ]
+  }
+}

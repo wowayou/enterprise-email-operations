@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.local.json
+private/
+evidence/
+*.eml
+*.mbox
+*.pst
+*.ost
